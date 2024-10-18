@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Ejercicio 4</title>
+	</head>
+	
+	<body>
+		<H1>CR7</H1>
+		<p> CR7 calentando</p>
+		<img src="C:\Notepad++\CR7" alt="CR7">
+		<p>Mejores goles de bicho SUUUUUUUUU <a href="https://www.youtube.com/watch?v=eFgSL_CHYwg&ab_channel=LaCantera">EL bicho</a></p>
+	</body>
+</html>
